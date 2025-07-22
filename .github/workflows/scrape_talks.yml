@@ -2,6 +2,7 @@ name: Scrape Talk Locations
 
 on: push
 
+
 permissions:
   contents: write  # <-- This gives the token permission to push changes
 
